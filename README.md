@@ -3,9 +3,6 @@
 #### 项目介绍
 各种动画控件
 
-#### 软件架构
-软件架构说明
-
 
 #### 安装教程
 
@@ -15,9 +12,15 @@
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+- FBShimmering 文字闪烁效果
+
+ [IOS之Shimmer的完整解析](https://www.jianshu.com/p/3c58af1a2460)
+ [基于Core Animation的KTV歌词视图的平滑实现](http://www.iwangke.me/2014/10/06/how-to-implement-a-core-animation-based-60-fps-ktv-lyrics-view/)
+
+
+- ZSScaleLabel
+
+
 
 #### 参与贡献
 
