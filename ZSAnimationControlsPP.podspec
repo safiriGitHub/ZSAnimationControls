@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "ZSAnimationControls"
+  s.name         = "ZSAnimationControlsPP"
   s.version      = "0.0.1"
   s.summary      = "各种动画控件"
 
@@ -81,7 +81,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://zhangshuai@192.168.1.70:10101/r/iOS/cocoaPods/ZSAnimationControls.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/safiriGitHub/ZSAnimationControls.git", :tag => "#{s.version}" }
 
   # --- Subspec------------------------#
 
